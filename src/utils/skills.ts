@@ -1,0 +1,98 @@
+export default [
+  {
+    enabled: true,
+    name: "JavaScript",
+    sequence: 3,
+    percentage: 95,
+    image: {
+      public_id: "1706288679775-y4qwn3",
+      url: "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288679775-y4qwn3",
+      _id: "65b3e628b48589dfcae18750",
+    },
+    _id: "65b3df24b48589dfcae18114",
+  },
+  {
+    enabled: true,
+    name: "TypeScript",
+    sequence: 6,
+    percentage: 90,
+    image: {
+      public_id: "1706287104739-pm8en",
+      url: "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287104739-pm8en",
+      _id: "65b3e001b48589dfcae18246",
+    },
+    _id: "65b3e001b48589dfcae18245",
+  },
+  {
+    enabled: true,
+    name: "React",
+    sequence: 5,
+    percentage: 90,
+    image: {
+      public_id: "1706291833080-0loo09",
+      url: "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706291833080-0loo09",
+      _id: "65b3f27aeb20546ae6d49e76",
+    },
+    _id: "65b3de41b48589dfcae17fbd",
+  },
+  {
+    enabled: true,
+    name: "React Native",
+    sequence: 4,
+    percentage: 90,
+    image: {
+      public_id: "1706291833080-0loo09",
+      url: "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706291833080-0loo09",
+      _id: "65b3f27aeb20546ae6d49e76",
+    },
+    _id: "65b3f27aeb20546ae6d49e75",
+  },
+  {
+    enabled: true,
+    name: "Next.js",
+    sequence: 6,
+    percentage: 90,
+    image: {
+      public_id: "1706286682511-rgp96r",
+      url: "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286682511-rgp96r",
+      _id: "65b3de5bb48589dfcae17fe8",
+    },
+    _id: "65b3de5bb48589dfcae17fe7",
+  },
+  {
+    enabled: true,
+    name: "Tailwind",
+    sequence: 4,
+    percentage: 99,
+    image: {
+      public_id: "1706286616701-2jka3q",
+      url: "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286616701-2jka3q",
+      _id: "65b3de19b48589dfcae17f94",
+    },
+    _id: "65b3de19b48589dfcae17f93",
+  },
+  {
+    enabled: true,
+    name: "Docker",
+    sequence: 16,
+    percentage: 85,
+    image: {
+      public_id: "1706287155946-z2oybb",
+      url: "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287155946-z2oybb",
+      _id: "65b3e034b48589dfcae182cd",
+    },
+    _id: "65b3e034b48589dfcae182cc",
+  },
+  {
+    enabled: true,
+    name: "Zustand",
+    sequence: 8,
+    percentage: 80,
+    image: {
+      public_id: "1706286760237-gh4idq",
+      url: "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286760237-gh4idq",
+      _id: "65b3dea8b48589dfcae18044",
+    },
+    _id: "65b3dea8b48589dfcae18043",
+  },
+];
