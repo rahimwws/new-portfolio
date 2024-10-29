@@ -6,7 +6,7 @@ import { Dispatch, SetStateAction, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { formatDate } from "@/utils";
 import { SlideIn, Transition } from "./ui";
-
+import img from "../images/main.jpg";
 interface AboutProps {
   about: AboutType;
 }
@@ -33,7 +33,7 @@ const About = ({ about }: AboutProps) => {
         <div className="sticky top-6">
           <Transition>
             <Image
-              src="/main.jpg"
+              src={img}
               width={500}
               height={400}
               alt="Rahym Hudaykulyyev"

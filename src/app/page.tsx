@@ -32,7 +32,7 @@ export default async function Home() {
       <Header social={social_handles} />
       <Hero about={about} />
       <About about={about} />
-      <Experience />
+      {/* <Experience /> */}
       {/* ===SKILLS SECTION=== */}
       <section id="skills">
         <ParallaxText baseVelocity={-5}>

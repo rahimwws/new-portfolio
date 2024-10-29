@@ -15,7 +15,6 @@ interface NavProps {
 
 const Nav = ({ setIsActive, social }: NavProps) => {
   const MotionLink = motion(Link);
-
   return (
     <div className="flex justify-between flex-col w-full h-full px-10 pt-[100px] pb-[50px]">
       <div className="flex gap-2 flex-col">
@@ -91,10 +90,6 @@ export const navLinks = [
   {
     title: "Services",
     href: "#services",
-  },
-  {
-    title: "Projects",
-    href: "#projects",
   },
   {
     title: "Contact",

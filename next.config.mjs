@@ -1,12 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  images: {
-    remotePatterns: [
-      {
-        hostname: "portfolio-image-store.s3.ap-south-1.amazonaws.com",
-      },
-    ],
-  },
+  output: "export",
+  images: { unoptimized: true },
 };
 
 export default nextConfig;
